@@ -1,2 +1,2 @@
 # k8s
-manifest examples
+manifest, scripts
